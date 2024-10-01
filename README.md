@@ -1,2 +1,2 @@
 # Fake_news_detection
-A model to determine the accuracy of new
+A model to determine the accuracy of news
